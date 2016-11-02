@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidBashFirebasePushNotify</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_activity">This is our Main Activity</string>
+    <string name="another_activity">This is our Another Activity</string>
+</resources>
