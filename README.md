@@ -1,7 +1,7 @@
 # androidbash_firebase_push_notifications
 Android Tutorials : Firebase Push Notification Tutorial.
 
-You need to paste your  google-servies.json file under androidbash_firebase_push_notifications/app/ folder before you try outthe application. You can get it from Firebase console.
+You need to paste your  google-servies.json file under "androidbash_firebase_push_notifications/app/" folder before you try out the application. You can get it from Firebase console.
 
 Visit Tutorial : http://androidbash.com/firebase-push-notification-android/
 
